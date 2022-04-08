@@ -7,7 +7,7 @@ DevOps, IT, Sec anaylsts... the list goes on.
 
 I do codewars and HTB sometimes. Mostly been really busy with my current job being head dev.(Which I didn't plan on getting it lol)
 
-<img src="https://www.codewars.com/users/spac3P1rat3/badges/large">
+<img src="https://www.codewars.com/users/spac3P1rat3/badges/large" href="https://www.codewars.com/users/spac3P1rat3/completed">
 
 <!--
 **spac3P1rat3/spac3p1rat3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
