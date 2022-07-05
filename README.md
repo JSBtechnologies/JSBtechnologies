@@ -9,6 +9,10 @@ I do codewars and HTB sometimes. Mostly been really busy with my current job bei
 
 <a  href="https://www.codewars.com/users/spac3P1rat3/completed"><img src="https://www.codewars.com/users/spac3P1rat3/badges/large"></a>
 
+
+<br>
+
+[![spac3p1rat3's GitHub stats](https://github-readme-stats.vercel.app/api?username=spac3p1rat3)](https://github.com/spac3p1rat3/github-readme-stats)
 <!--
 **spac3P1rat3/spac3p1rat3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
