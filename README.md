@@ -12,7 +12,7 @@ Besides my job I do codewars and contribute to projects as much as I can. Some a
 
 <br>
 
-[![spac3p1rat3's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSBTechnologies&show_icons=true&theme=radical)](https://github.com/JSBTechnologies/github-readme-stats)
+<!-- [![spac3p1rat3's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSBTechnologies&show_icons=true&theme=radical)](https://github.com/JSBTechnologies/github-readme-stats)-->
 <!--
 **spac3P1rat3/spac3p1rat3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
