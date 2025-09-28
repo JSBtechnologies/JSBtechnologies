@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there 
+
 I am just a tech nerd who loves learning and making things better(that includes myself).
 A bit of a perfectionist, but who isn't in some form?
 
-Looking to help the tech community and help others along the way. There is no "i" in team, especially one as large as we have as software devs, engineers, 
-DevOps, IT, Sec anaylsts... the list goes on. 
+I love to build things and figure out how things work. 
 
 Besides my job I do codewars and contribute to projects as much as I can. Most are private.
 
