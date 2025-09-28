@@ -13,6 +13,6 @@ Besides my job I do codewars and contribute to projects as much as I can. Most a
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffrieBudde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSBTechnologies&layout=compact)](https://github.com/JSBTechnologies/github-readme-stats)
 [![spac3p1rat3's GitHub stats](https://github-readme-stats.vercel.app/api?username=JSBTechnologies&show_icons=true&theme=radical)](https://github.com/JSBTechnologies/github-readme-stats)
 
