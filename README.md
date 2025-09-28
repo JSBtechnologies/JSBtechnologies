@@ -1,4 +1,3 @@
-### Hello there 
 ![Star Wars Meme](/assets/hello-there.gif)
 
 
