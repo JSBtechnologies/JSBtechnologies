@@ -1,4 +1,6 @@
 ### Hello there 
+![Star Wars Meme](/assets/hello-there.gif)
+
 
 I am just a tech nerd who loves learning and making things better(that includes myself).
 A bit of a perfectionist, but who isn't in some form?
